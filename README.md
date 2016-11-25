@@ -1,12 +1,12 @@
-# ALPS Kernel for krillin
+# ALPS Kernel for VegetaHD
 
 * Working:
 
-  * NOT TESTED
+  * DON'T TESTED
 
 * Bugs (not working):
 
-  * NOT TESTED
+  * DONT TESTED
     
 
 # Compilation guide:
@@ -36,3 +36,4 @@
    * @zormax for the cm12/13 project
    * @assusdan for help me a lot with this kernel
    * BQ for his sources
+    
