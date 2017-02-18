@@ -1,5 +1,5 @@
 /*
- * (c) MediaTek Inc. 20005
+ * (c) MediaTek Inc. 2005
  */
 
  

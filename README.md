@@ -2,11 +2,28 @@
 
 * Working:
 
-  * DON'T TESTED
+  * LCM Drivers (hx8389b_qhd_dsi_vdo_tianma, hx8389_qhd_dsi_vdo_truly)
+  * Touchscreen Driver (FT5336)
+  * Batery Table
+  * Vibrator driver
+  * Rear Camera
+  * Flashlight
+  * Sound driver (thanks to vo-1)
+  * Frontal Camera
+  * Storage (emulated storage and sdcard working)
+  * Acceleremoter
+  * Light sensor
+  * Proximity sensor
+  * WIFI
+  * New double tap 2 wake driver (removed the bq old one)
+  * Bluetooth
+  * GPS
+  * VPN
+  * Gyroscope sensor
 
 * Bugs (not working):
 
-  * DONT TESTED
+  * APP_SWITCH button (button number 252) 
     
 
 # Compilation guide:

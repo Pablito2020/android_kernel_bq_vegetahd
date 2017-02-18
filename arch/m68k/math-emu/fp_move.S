@@ -242,3 +242,4 @@ fp_format_byte:
 fp_finish_move:
 	lea	(12,%sp),%sp
 	jra	fp_final
+
